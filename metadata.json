@@ -1,0 +1,6 @@
+{
+  "name": "InovElas",
+  "description": "Plataforma de empoderamento e gestão colaborativa familiar para o empreendedorismo feminino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
